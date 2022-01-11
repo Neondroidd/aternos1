@@ -1,5 +1,5 @@
 {
-	"ip":"inovx.ddns.net",
+	"ip":"inovx.ddns.net:53344",
 	"port": "53344",
 	"name": "supguys",
 	"auto-night-skip":"false"
