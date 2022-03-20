@@ -1,6 +1,6 @@
 {
-	"ip":"ServerMC8G.aternos.me"
+	"ip":"ServerMC8G.aternos.me",
 	"port": "54745",
-	"name": "BotAternos",
+	"name": "boboserver",
 	"auto-night-skip":"false"
 }
